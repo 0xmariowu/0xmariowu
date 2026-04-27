@@ -8,7 +8,7 @@
   <img alt="Mario · Singapore — AI Builder" src="./assets/hero-light.svg" width="100%">
 </picture>
 
----
+<h2></h2>
 
 <br>
 
@@ -24,7 +24,7 @@
 
 <br>
 
----
+<h2></h2>
 
 ### Selected Work
 
@@ -40,7 +40,7 @@ A senior team's engineering setup — CI, security, governance, agent docs — d
 #### [Vibe Coding Spec](https://gist.github.com/0xmariowu/2c3e3ceaf9b79fe9b27df87441323ec3) &nbsp;<sub>`Gist`</sub>
 Engineering spec written for AI to read. The handbook your agent wishes it had.
 
----
+<h2></h2>
 
 ### Elsewhere
 
