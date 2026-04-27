@@ -12,10 +12,15 @@
 
 <br>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/quote-dark.svg">
-  <img alt="The biggest lesson that can be read from 70 years of AI research is that general methods that leverage computation are ultimately the most effective, and by a large margin. — Rich Sutton, The Bitter Lesson" src="./assets/quote-light.svg" width="100%">
-</picture>
+<h3 align="center">
+
+*"The biggest lesson that can be read from 70 years of AI research is that general methods that leverage computation are ultimately the most effective, and by a large margin."*
+
+</h3>
+
+<p align="center">
+  <sub>— Rich Sutton, The Bitter Lesson</sub>
+</p>
 
 <br>
 
