@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 460" role="img" aria-label="Mario, Singapore. AI Builder.">
+  <defs>
+    <linearGradient id="ink" x1="0" y1="0" x2="1" y2="0.2">
+      <stop offset="0%" stop-color="#f5f5f7"/>
+      <stop offset="70%" stop-color="#f5f5f7"/>
+      <stop offset="100%" stop-color="#59a8ff"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="460" fill="#0d0d0f"/>
+
+  <g transform="translate(120,118)">
+    <circle cx="5" cy="-5" r="4.5" fill="#59a8ff"/>
+    <text x="22" y="0"
+          font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Text', 'Helvetica Neue', Inter, system-ui, sans-serif"
+          font-size="13" font-weight="500" letter-spacing="2.6" fill="#86868b">MARIO &#183; SINGAPORE</text>
+  </g>
+
+  <text x="120" y="262"
+        font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Helvetica Neue', Inter, system-ui, sans-serif"
+        font-size="156" font-weight="700" letter-spacing="-7" fill="url(#ink)">Hello.</text>
+
+  <text x="122" y="324"
+        font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Helvetica Neue', Inter, system-ui, sans-serif"
+        font-size="24" font-weight="400" fill="#f5f5f7" letter-spacing="-0.2">
+    I&#8217;m <tspan font-weight="600">Mario</tspan>, an AI Builder based in Singapore.
+  </text>
+
+  <text x="122" y="376"
+        font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Text', 'Helvetica Neue', Inter, system-ui, sans-serif"
+        font-size="14" fill="#86868b" letter-spacing="0.3">
+    Agentic tooling &#8195;&#183;&#8195; Developer experience &#8195;&#183;&#8195; The Bitter Lesson
+  </text>
+</svg>
