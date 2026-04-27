@@ -10,22 +10,17 @@
 
 ---
 
-### About
+<br>
 
-> "We want AI agents that can discover like we can, not which contain what we have discovered."
->
-> — Rich Sutton, *The Bitter Lesson*
+<p align="center">
+  <em>"The biggest lesson that can be read from 70 years of AI research is that general methods that leverage computation are ultimately the most effective, and by a large margin."</em>
+</p>
 
----
+<p align="center">
+  <sub>— Rich Sutton, The Bitter Lesson</sub>
+</p>
 
-### Now
-
-| | |
-|---|---|
-| **Building** | [AgentLint](https://github.com/0xmariowu/AgentLint) — the linter for your agent harness |
-| **Researching** | evaluation methods for autonomous coding agents |
-| **Reading** | *The Bitter Lesson* · Rich Sutton |
-| **Listening** | Dwarkesh Podcast · Latent Space |
+<br>
 
 ---
 
@@ -45,29 +40,11 @@ Engineering spec written for AI to read. The handbook your agent wishes it had.
 
 ---
 
-### Stack
-
-**Daily drivers** &nbsp;·&nbsp; Python &nbsp;·&nbsp; TypeScript &nbsp;·&nbsp; Shell &nbsp;·&nbsp; Rust
-**Agents & AI** &nbsp;·&nbsp; Claude Code &nbsp;·&nbsp; Codex &nbsp;·&nbsp; Cursor &nbsp;·&nbsp; MCP
-**Infra** &nbsp;·&nbsp; Docker &nbsp;·&nbsp; GitHub Actions &nbsp;·&nbsp; Postgres &nbsp;·&nbsp; Redis
-
----
-
-<div align="center">
-
-> The biggest lesson that can be read from 70 years of AI research is that general methods that leverage computation are ultimately the most effective, and by a large margin.
->
-> *— Rich Sutton, The Bitter Lesson*
-
-</div>
-
----
-
 ### Elsewhere
 
-- **X / Twitter** &nbsp;→&nbsp; [@0xMarioWu](https://x.com/0xMarioWu)
-- **GitHub** &nbsp;→&nbsp; [0xmariowu](https://github.com/0xmariowu)
-- **Location** &nbsp;·&nbsp; Singapore · UTC+08
+**X / Twitter** &nbsp;→&nbsp; [@0xMarioWu](https://x.com/0xMarioWu)  
+**GitHub** &nbsp;→&nbsp; [0xmariowu](https://github.com/0xmariowu)  
+**Location** &nbsp;·&nbsp; Singapore · UTC+08
 
 <br/>
 
