@@ -21,3 +21,5 @@
 <p align="center">
   <sub>— Rich Sutton, The Bitter Lesson</sub>
 </p>
+
+<p align="center"><sub>&nbsp;</sub></p>
