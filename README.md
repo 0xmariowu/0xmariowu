@@ -28,16 +28,16 @@
 
 ### Selected Work
 
-#### [AgentLint](https://github.com/0xmariowu/AgentLint) &nbsp;<sub>`Shell · 22 ★`</sub>
+#### [AgentLint](https://github.com/0xmariowu/AgentLint) &nbsp;![AgentLint stars](https://img.shields.io/github/stars/0xmariowu/AgentLint?style=flat-square&label=Shell%20%C2%B7%20%E2%98%85&color=e1e4e8&labelColor=e1e4e8)
 The linter for your agent harness. Works with Claude Code, Codex, and Cursor.
 
-#### [Autosearch](https://github.com/0xmariowu/Autosearch) &nbsp;<sub>`Python · 14 ★`</sub>
+#### [Autosearch](https://github.com/0xmariowu/Autosearch) &nbsp;![Autosearch stars](https://img.shields.io/github/stars/0xmariowu/Autosearch?style=flat-square&label=Python%20%C2%B7%20%E2%98%85&color=e1e4e8&labelColor=e1e4e8)
 Open-source deep research for coding agents.
 
-#### [VibeKit](https://github.com/0xmariowu/VibeKit) &nbsp;<sub>`Shell · 5 ★`</sub>
+#### [VibeKit](https://github.com/0xmariowu/VibeKit) &nbsp;![VibeKit stars](https://img.shields.io/github/stars/0xmariowu/VibeKit?style=flat-square&label=Shell%20%C2%B7%20%E2%98%85&color=e1e4e8&labelColor=e1e4e8)
 A senior team's engineering setup — CI, security, governance, agent docs — drop it into any repo, and your AI agent already knows how to work in it.
 
-#### [Vibe Coding Spec](https://gist.github.com/0xmariowu/2c3e3ceaf9b79fe9b27df87441323ec3) &nbsp;<sub>`Gist`</sub>
+#### [Vibe Coding Spec](https://gist.github.com/0xmariowu/2c3e3ceaf9b79fe9b27df87441323ec3) &nbsp;![Gist](https://img.shields.io/badge/Gist-e1e4e8?style=flat-square&labelColor=e1e4e8)
 Engineering spec written for AI to read. The handbook your agent wishes it had.
 
 <h2></h2>
